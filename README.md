@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a graduate AI developer passionate about build
   - Integrated document verification using Document Intelligence & AI chat completions  
   - Function calling to enhance assistant capabilities  
 - **Personal Projects:**  
-  - Developed projects using **OpenAI**—check them out on my [GitHub](https://github.com/rachaelkeenan)!  
+  - Developed projects using **OpenAI**—check them out on my [GitHub](https://github.com/rachkeenan)!  
 
 ## 🔗 Find Me Elsewhere  
 📖 [Blog](https://rachaelkeenan.dev/)  
