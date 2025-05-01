@@ -1,6 +1,6 @@
 # Hi there, I'm Rachael Keenan! 👋  
 
-🎓 **Graduate AI Developer** | 💻 **C# & Blazor Enthusiast** | ☁️ **Azure & OpenAI Developer**  
+🎓 **Graduate AI Developer** | 💻 **C# & Blazor beginner** | ☁️ **Azure & OpenAI Developer**  
 
 Welcome to my GitHub profile! I'm a graduate AI developer passionate about building AI-driven applications using C# and Microsoft Azure. I enjoy working with cloud technologies, AI assistants, and automation to create innovative solutions.  
 
