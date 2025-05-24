@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a graduate AI developer passionate about build
 ## 🛠 Tech Stack & Experience  
 - **Languages:** C#  
 - **Cloud & AI:** Azure Portal, Azure OpenAI, Document Intelligence, Azure Functions  
-- **DevOps:** Azure DevOps (Pull Requests, CI/CD)  
+- **DevOps:** Azure DevOps (Pull Requests, Boards)  
 - **Frontend:**  
   - **Blazor** (for AI assistant web UI)  
   - **Custom CSS & MudBlazor** for styling and UI enhancements  
